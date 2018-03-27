@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Human>
+  <body>
+    <id> 1 </id>
+    <hands> Hand1-left </hands>
+    <hands> Hand1-right </hands>
+    <foot> Foot1-left </foot>
+    <foot> Foot1-right </foot>
+  </body>
+  <body>
+    <id> 2 </id>
+    <hands> Hand2-left </hands>
+    <hands> Hand2-right </hands>
+    <foot> Foot2-left </foot>
+    <foot> Foot2-right </foot>
+  </body>
+</Human>

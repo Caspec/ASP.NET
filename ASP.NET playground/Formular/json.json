@@ -1,0 +1,7 @@
+﻿{
+    "employee": [
+        { "name": "Shankar", "empid": "1", "department": "Design" },
+        { "name": "Ashish", "empid": "2", "department": "Testing" },
+        { "name": "Dipendra", "empid": "3", "department": "Development" }
+    ]
+}
